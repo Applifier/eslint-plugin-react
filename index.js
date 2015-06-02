@@ -16,6 +16,7 @@ module.exports = {
     'jsx-quotes': require('./lib/rules/jsx-quotes'),
     'no-unknown-property': require('./lib/rules/no-unknown-property'),
     'jsx-sort-props': require('./lib/rules/jsx-sort-props'),
+    'jsx-restrict-props': require('./lib/rules/jsx-restrict-props'),
     'jsx-sort-prop-types': require('./lib/rules/jsx-sort-prop-types'),
     'jsx-boolean-value': require('./lib/rules/jsx-boolean-value'),
     'sort-comp': require('./lib/rules/sort-comp')
@@ -35,6 +36,7 @@ module.exports = {
     'jsx-quotes': 0,
     'no-unknown-property': 0,
     'jsx-sort-props': 0,
+    'jsx-restrict-props': 0,
     'jsx-sort-prop-types': 0,
     'jsx-boolean-value': 0,
     'sort-comp': 0
